@@ -1,0 +1,14 @@
+{
+  "name": "toaster",
+  "version": "1.0.0",
+  "description": "Crea un bot que crea papel ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me_and_the_boys_jpg",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
