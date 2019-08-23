@@ -9,6 +9,7 @@
   "author": "Me_and_the_boys_jpg",
   "license": "ISC",
   "dependencies": {
+    "mqtt": "^3.0.0",
     "node-telegram-bot-api": "^0.30.0"
   }
 }
